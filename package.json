@@ -1,0 +1,13 @@
+{
+  "name": "shadcn-collections",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "pnpm --filter='./apps/*' install",
+    "run:select-paginate": "pnpm --filter=select-paginate run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
